@@ -2,7 +2,10 @@
 # -*- coding: utf8 -*-
 # Convert Subversion XML Log to iCalendar format
 # $Id$
-# uses http://pypi.python.org/pypi/icalendar/2.1
+# uses:
+# http://vobject.skyhouseconsulting.com/
+# http://www.crummy.com/software/BeautifulSoup/
+
 
 import os
 import sys
